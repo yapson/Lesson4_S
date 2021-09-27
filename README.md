@@ -1,3 +1,4 @@
-# Lesson4_S
+# Lesson4
 
 An excercise of Coding with Chris in iOS.
+
